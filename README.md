@@ -45,4 +45,7 @@ npm run dev
 
 Buka browser ke 👉 http://localhost:5173
 
+##  Authors 
 
+- Natasya Ruilla Fatkhiyati (230030480) : Frontend 
+- Kadek Dinda Ayu Febriana (230030520) : Backend 
