@@ -33,7 +33,7 @@ node server.js
 ```
 ### 3. Siapkan file .env di dalam folder backendwanderbali:
 ```bash
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/dbname
+MONGO_URI=mongodb+srv://wanderadmin:admin123@cluster0.gpwibsx.mongodb.net/wanderbalidreams?retryWrites=true&w=majority&appName=Cluster0
 ```
 ### 4. Jalankan Frontend
 
